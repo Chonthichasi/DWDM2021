@@ -43,6 +43,6 @@ Group Name :
       * Continuous Attribute
       * Basic Statistical Descriptions of Data
  
-  * Lecture Binary Distance
+  * [Lecture Binary Distance](https://github.com/Chonthichasi/DWDM2021/blob/main/02Data.pdf)
 
 

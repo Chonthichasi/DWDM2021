@@ -44,6 +44,11 @@ Group Name :
       * Basic Statistical Descriptions of Data
  
     * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Chonthichasi/DWDM2021/blob/main/02Data.pdf)
+      * Similarity, Dissimilarity, and Proximity
+      * Data Matrix and Dissimilarity Matrix
+      * Standardizing Numeric Data
+      * Special Cases of Minkowski Distance
+
     * [Lecture Binary Distance](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter1.pdf)
       * Proximity Measure for Binary Attributes
       * Proximity Measure for Categorical Attributes

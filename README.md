@@ -147,4 +147,33 @@ Group Name :
           * สร้าง list ของ boolen
           * เราใช้ & (and) และ | (or) ในการรวม list ของ boolen
           * Quiz 4 + การบ้าน
+* บทที่ 4 Data Warehousing and On-line Analytical Processing
+  * [Lecture Chapter 4 Data Warehousing and On-line Analytical Processing](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter4.pdf)
+    * What is a Data Warehouse?
+    * From Tables and Spreadsheets to Data Cubes
+    * Conceptual Modeling of Data Warehouses
+      * Star Schema: An Example
+      * Snowflake Schema: An Example
+      * Fact Constellation: An Example
+    * Typical OLAP Operations
+      * Roll up (drill-up)
+      * Drill down (roll down)
+      * Slice and dice
+      * Pivot (rotate)
+      * Drill across
+      * Drill through
+* บทที่ 5 Association Rules
+  * [Lecture Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter5.pdf)
+    * Basic Concepts
+      * What Is Pattern Discovery?
+        * k-Itemsets and Their Supports
+        * Frequent Itemsets (Patterns)
+        * From Frequent Itemsets to Association Rules
+        * Mining Frequent Itemsets and Association Rules
+    * Efficient Pattern Mining Methods
+      * Apriori Algorithm
+        * Apriori Pruning and Scalable Mining Methods
+        * A Candidate Generation & Test Approach
+        * The Apriori Algorithm
 

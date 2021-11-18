@@ -42,5 +42,7 @@ Group Name :
       * Discrete Attribute
       * Continuous Attribute
       * Basic Statistical Descriptions of Data
+ 
+  * Lecture Binary Distance
 
 

@@ -56,7 +56,7 @@ Group Name :
       * Attributes of Mixed Type
       * Cosine Similarity of Two Vectors
      
-    * Basic Python
+    * [Basic Python](https://github.com/Chonthichasi/DWDM2021/blob/main/Data101(Chapter2).ipynb)
       * Variables
           * ข้อกำหนดในการตั้งตัวแปร
       * Casting int() float() stri()

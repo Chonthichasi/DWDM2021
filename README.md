@@ -115,5 +115,36 @@ Group Name :
           * HW11
           * เฉลย HW11
           * Distance of Binary Value
-
+         
+  * บทที่ 3 Data Preprocessing
+    * [Lecture Chapter 3 Data Preprocessing](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter3.pdf)
+      * Data Cleaning คืออะไร
+      * Data Integration คืออะไร
+      * Data Reduction คืออะไร
+      * Data Transformation และ Data Discretization คืออะไร
+      * การจัดการกับ Missing Data ด้วยวิธีต่าง ๆ
+    * [Data Preprocessing](https://github.com/Chonthichasi/DWDM2021/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+      * Meta Data (Data ที่ใช้อธิบาย Data)
+        * ชี้ข้อมูลในตาราง
+          * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+          * ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
+        * Missing Values
+          * Handling Misiing Value 1 (ลบค่า missing ออกไป) 
+          * Quiz 3 ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+          * เฉลยตามอาจารย์
+          * Handling Misiing Value 1.5 (ลบค่า missing เฉพาะในคอลัมม์ที่เราสนใจออกไป)
+          * Quiz 3.1 ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %
+          * Handling Misiing Value 2 (แทนค่าด้วย class ใหม่ (unknown))
+          * Handling Misiing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม))
+          * Handling Misiing Value 4 (แทนค่าด้วย ค่ากลาง)
+          * ถ้าเป็น morminal (ตัวหนังสือ) จะใช้ฐานนิยม
+         * เติมด้วยช่องว่าง column ใกล้เคียง
+          * ถ้าเป็น ordinal เติม Median
+          * Handling Misiing Value 5 (แทนค่าด้วย ค่ากลางของ sample ใน class เดียวกัน)
+         * Select data by values [PD] คำสั่งแพนด้า
+          * ขั้นตอนสร้าง list ของ boolen
+          * นำ list ของ boolen มาเลือกในตาราง
+          * สร้าง list ของ boolen
+          * เราใช้ & (and) และ | (or) ในการรวม list ของ boolen
+          * Quiz 4 + การบ้าน
 

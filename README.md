@@ -196,4 +196,47 @@ Group Name :
     * Decision Tree Induction
       * An Example
       * Information Gain
+    * [Decision Tree](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_7_Classification_(Decision_Tree).ipynb)
+      * Load Data
+      * Train Model
+        * import (เรียกใช้อัลกอริทึมที่เราต้องการ)
+        * define (กำหนดพารามิเตอร์ให้กับ model)
+        * train (ฝึกสอนตัวแบบ)
+        * plot tree
+      * Evaluation
+        * Random
+      * Advanced Tree
+        * import
+        * Define
+        * Train
+        * TEST
+        * Start here
+      * HW
+        * ต้นไม้ที่ใช้เกณฑ์ Entropy มีความสูงไม่เกิน 4 ชั้น
+        * Import
+        * Define
+        * Train
+        * Evaluate
+        * Test
+        * ต้นไม้ที่ใช้เกณฑ์ Gini มีใบไม่เกิน 25 ใบ
+        * Import
+        * Define
+        * Train
+        * Evaluate
+        * Test
+        * ต้นไม้ที่ใช้เกณฑ์ Entropy และใช้การ split แบบ random
+        * Import
+        * Define
+        * Train
+        * Evaluate
+        * Test
+        * ต้นไม้ที่เราคิดเอง
+        * Import
+        * Define
+        * Train
+        * Evaluate
+        * Test
+        * เลือก T4 แล้ว Train ใหม่ด้วย Training
+    * [Evaluation](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_7_Classification_(Evaluation).ipynb)
+    
 

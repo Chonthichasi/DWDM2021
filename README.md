@@ -26,3 +26,6 @@ Group Name :
     * Knowledge Discovery (KDD) Process
     * Data Mining in Business Intelligence
     * ตัวอย่างของข้อมูล
+ 
+* บทที่ 2 Getting to Know Your Data
+  * [Lecture Data Objects and Attribute Types]

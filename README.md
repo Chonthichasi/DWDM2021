@@ -82,6 +82,7 @@ Group Name :
             * Example 3 ฟังก์ชั่นที่ไม่มี output กับ input มีแต่ process
             * ลักษณะของ input(parameter)
             * Quiz 2
+     * [Pandas]
 
 
 

@@ -296,7 +296,7 @@ Group Name :
         * Retain & Evaluation
         * Data_Visualization
 * Slide นำเสนอ
-* [Slide นำเสนอ](
+* [Slide นำเสนอ](https://github.com/Chonthichasi/DWDM2021/blob/main/Group-Project%20(Present).pdf)
   
     
 

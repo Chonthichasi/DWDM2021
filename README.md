@@ -44,5 +44,10 @@ Group Name :
       * Basic Statistical Descriptions of Data
  
     * [Lecture Binary Distance](https://github.com/Chonthichasi/DWDM2021/blob/main/02Data.pdf)
-    
+      * Proximity Measure for Binary Attributes
+      * Proximity Measure for Categorical Attributes
+      * Ordinal Variables
+      * Attributes of Mixed Type
+      * Cosine Similarity of Two Vectors
+
 

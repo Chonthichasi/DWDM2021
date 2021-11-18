@@ -57,5 +57,31 @@ Group Name :
       * Cosine Similarity of Two Vectors
      
     * Basic Python
+      * Variables
+          * ข้อกำหนดในการตั้งตัวแปร
+      * Casting int() float() stri()
+      * Data Structure
+        * list ()
+          * string คือ list ของ ตัวหนังสือ
+          * วิธีการสร้าง list แบบที่ 2 list ว่าง
+            * เติมค่าลงไปใน list (.append())
+            * การชี้ค่าใน list (indexing)
+           * list slicing
+            * [จุดเริ่มต้น: จุดสุดท้าย: step]
+           * list + list
+           * format string
+           * Loop
+              *Nested loop
+           * Condition ( if statement )
+            * Quiz 1 หา min
+            * Homework 3 ตัดเกรด
+          * Function
+            * Example 1
+            * Example 2 ฟังก์ชั่นที่ไม่มี input มีแต่ process กับ output
+            * Example 3 ฟังก์ชั่นที่ไม่มี output มีแต่ process กับ input
+            * Example 3 ฟังก์ชั่นที่ไม่มี output กับ input มีแต่ process
+            * ลักษณะของ input(parameter)
+            * Quiz 2
+
 
 

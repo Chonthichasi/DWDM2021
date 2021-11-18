@@ -138,10 +138,10 @@ Group Name :
           * Handling Misiing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม))
           * Handling Misiing Value 4 (แทนค่าด้วย ค่ากลาง)
           * ถ้าเป็น morminal (ตัวหนังสือ) จะใช้ฐานนิยม
-         * เติมด้วยช่องว่าง column ใกล้เคียง
+        * เติมด้วยช่องว่าง column ใกล้เคียง
           * ถ้าเป็น ordinal เติม Median
           * Handling Misiing Value 5 (แทนค่าด้วย ค่ากลางของ sample ใน class เดียวกัน)
-         * Select data by values [PD] คำสั่งแพนด้า
+        * Select data by values [PD] คำสั่งแพนด้า
           * ขั้นตอนสร้าง list ของ boolen
           * นำ list ของ boolen มาเลือกในตาราง
           * สร้าง list ของ boolen

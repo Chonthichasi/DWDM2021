@@ -83,7 +83,7 @@ Group Name :
             * ลักษณะของ input(parameter)
             * Quiz 2
      * [Pandas](https://github.com/Chonthichasi/DWDM2021/blob/main/Data102.ipynb)
-       *Read Data
+       * Read Data
         * .head() .tail()
         * Boxplot
         * Time Series Plot

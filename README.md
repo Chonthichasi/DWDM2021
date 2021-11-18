@@ -267,7 +267,7 @@ Group Name :
   * [MiniExam](https://github.com/Chonthichasi/DWDM2021/blob/main/MiniExam.ipynb)
 * Group Project
   * [Group Project](https://github.com/Chonthichasi/DWDM2021/blob/main/Project_DWDM.ipynb)
-      *Project กลุ่ม
+     * Project กลุ่ม
       * รายชื่อสมาชิกในกลุ่ม
       * แหล่งที่มาของข้อมูล
       * ปัญหา

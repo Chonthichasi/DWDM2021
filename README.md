@@ -96,7 +96,24 @@ Group Name :
           * Grouped Barchart
           * Stacked Barchart
         * Histogram
-
-
+    * [Distance_Numpy](https://github.com/Chonthichasi/DWDM2021/blob/main/Distance_Numpy.ipynb)
+      * Numpy array
+        * สร้าง numpy array
+          * matrix transpose
+        * สร้าง matrix เริ่มต้น (zeros, ones)
+        * สร้าง matrix random
+           * matix properties
+        * Indexing & Slicing
+        * Useful functions
+        * วนลูปเอง
+          * summation
+        * Quiz กลุ่ม
+       * Distance Matrix
+          * Euclidean Distance (L2-norm)
+          * Distance function
+          * Manhattan Distance (L1-norm)
+          * HW11
+          * เฉลย HW11
+          * Distance of Binary Value
 
 

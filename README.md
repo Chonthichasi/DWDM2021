@@ -87,6 +87,16 @@ Group Name :
           * .head() .tail()
           * Boxplot
           * Time Series Plot
+    * [Visualization](https://github.com/Chonthichasi/DWDM2021/blob/main/Data_Visualization.ipynb)
+      * Visualization
+        * Box plot
+        * Scatter plot
+        * Plot
+        * Bar chart
+          * Grouped Barchart
+          * Stacked Barchart
+        * Histogram
+
 
 
 

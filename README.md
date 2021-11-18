@@ -21,3 +21,8 @@ Group Name :
 # สารบัญ
 * บทที่ 1 INTRODUCTION 
   * [Lecture Introduction](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter1.pdf)
+    * Data Mining คืออะไร
+    * ทำไมถึงต้องทำ Data Mining
+    * Knowledge Discovery (KDD) Process
+    * Data Mining in Business Intelligence
+    * ตัวอย่างของข้อมูล

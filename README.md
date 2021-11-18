@@ -44,7 +44,7 @@ Group Name :
       * Basic Statistical Descriptions of Data
  
     * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Chonthichasi/DWDM2021/blob/main/02Data.pdf)
-    * [Lecture Binary Distance]
+    * [Lecture Binary Distance](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter1.pdf)
       * Proximity Measure for Binary Attributes
       * Proximity Measure for Categorical Attributes
       * Ordinal Variables

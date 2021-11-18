@@ -176,7 +176,7 @@ Group Name :
         * Apriori Pruning and Scalable Mining Methods
         * A Candidate Generation & Test Approach
         * The Apriori Algorithm
-   *[Reduced_marketbasket](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_6_Association_Rules.ipynb)
+   * [Reduced_marketbasket](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_6_Association_Rules.ipynb)
       * ลบ records ที่ถูก cancel ออกไป
       * มีประเทศสาขาของ Supermarket นี้ทั้งหมดกี่ประเทศ
       * HW 13 วาดกราฟสรุปจำนวน items และยอดขายของแต่ละประเทศ

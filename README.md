@@ -28,4 +28,4 @@ Group Name :
     * ตัวอย่างของข้อมูล
  
 * บทที่ 2 Getting to Know Your Data
-  * [Lecture Data Objects and Attribute Types]
+  * [Lecture Data Objects and Attribute Types](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter2.pdf)

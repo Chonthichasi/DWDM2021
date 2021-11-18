@@ -55,5 +55,7 @@ Group Name :
       * Ordinal Variables
       * Attributes of Mixed Type
       * Cosine Similarity of Two Vectors
+     
+    * Basic Python
 
 

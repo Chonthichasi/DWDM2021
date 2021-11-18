@@ -237,6 +237,66 @@ Group Name :
         * Evaluate
         * Test
         * เลือก T4 แล้ว Train ใหม่ด้วย Training
+    * [k-Nearest Neighbor & Neural Networks](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_7_Classification_(KNN_NN).ipynb)
+      * Load Data
+      * Split Data
+      * Train Model
+        * Import
+        * KNN1
+        * KNN2
+        * KNN3
+      * Retain & Evaluate
+      * Neural Network
+        * Import
+        * Define
+        * Train-Test
+        * ANN2
+        * ANN3
     * [Evaluation](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_7_Classification_(Evaluation).ipynb)
+      * Load data
+      * แบ่ง Data
+      * สร้าง Model ทำนาย
+        * Import
+        * Define
+        * Train
+      * Evaluation
+* บทที่ 7 Clustering
+  * [Clustering]
+
+* MiniExam 
+  * [MiniExam](https://github.com/Chonthichasi/DWDM2021/blob/main/MiniExam.ipynb)
+* Group Project
+  * [Group Project](https://github.com/Chonthichasi/DWDM2021/blob/main/Project_DWDM.ipynb)
+    *Project กลุ่ม
+      * รายชื่อสมาชิกในกลุ่ม
+      * แหล่งที่มาของข้อมูล
+      * ปัญหา
+        * ชุดข้อมูลที่ 1 รับเรื่องร้องเรียน/แจ้งเบาะแสยาเสพติด
+        * คำอธิบายตาราง
+        * ตรวจสอบค่า Missing ของตาราง data_01
+      * ชุดข้อมูลที่ 2 ปริมาณของกลางยาเสพติด
+        * คำอธิบายตาราง
+        * ตรวจสอบค่า Missing ของตาราง data_02
+     * ชุดข้อมูลที่ 3 จำนวนคดี ผู้ต้องหาคดียาเสพติด
+        * คำอธิบายตาราง
+        * ตรวจสอบค่า Missing ของตาราง data_03
+     * ข้อมูลชุดที่ 4 ข้อมูลทั่วไปของจังหวัด
+        * คำอธิบายตาราง
+        * ตรวจสอบค่า Missing ของตาราง data_04
+    * เชื่อมต่อตาราง
+        * ตรวจสอบค่า Missing ของตาราง 2 ตารางที่เชื่อมต่อกันแล้ว
+        * ตรวจสอบค่า Missing ของตาราง 3 ตารางที่เชื่อมต่อกันแล้ว
+    * Classification
+        * ปัญหา
+        * เลือกคอลัมน์ที่ต้องการนำมาใช้งาน
+        * Decision Tree
+        * KNN
+        * Neural Network
+    * Evaluation
+        * Retain & Evaluation
+        * Data_Visualization
+* Slide นำเสนอ
+* [Slide นำเสนอ](
+  
     
 

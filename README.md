@@ -185,3 +185,15 @@ Group Name :
         * แปลความหมาย
         * Quiz 7 หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมอธิบายว่าน่าสนใจยังไง
         * แปลความหมายของผลลัพธ์
+ 
+* บทที่ 6 Classification
+  * [Lecture Classification: Basic Concepts](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter6.pdf)
+    * Basic Concepts
+      * Supervised vs. Unsupervised Learning (1)
+      * Supervised vs. Unsupervised Learning (2)
+      * Prediction Problems: Classification vs. Numeric Prediction
+      * Classification—Model Construction, Validation and Testing
+    * Decision Tree Induction
+      * An Example
+      * Information Gain
+

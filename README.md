@@ -261,7 +261,20 @@ Group Name :
         * Train
       * Evaluation
 * บทที่ 7 Clustering
-  * [Clustering]
+  * [Clustering](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter_8_Clustering.ipynb)
+    * Generate Data
+    * Explore Data
+    * Clustering
+      * Import
+      * Define
+      * Fit-Predict
+      * 3 Cluster
+      * 4 Cluster5 Cluster
+    * Example Application (Color Quantization)
+      * นับจำนวนสี
+      * จัดกลุ่มสีให้เหลือ 16 สี
+      * แปลงข้อมูลให้อยู่ในรูป row-column
+      * ใช้ centroid เป็นตัวแทนของสี
 
 * MiniExam 
   * [MiniExam](https://github.com/Chonthichasi/DWDM2021/blob/main/MiniExam.ipynb)

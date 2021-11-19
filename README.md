@@ -116,8 +116,8 @@ Group Name :
           * เฉลย HW11
           * Distance of Binary Value
          
-  * บทที่ 3 Data Preprocessing
-    * [Lecture Chapter 3 Data Preprocessing](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter3.pdf)
+* บทที่ 3 Data Preprocessing
+   * [Lecture Chapter 3 Data Preprocessing](https://github.com/Chonthichasi/DWDM2021/blob/main/Chapter3.pdf)
       * Data Cleaning คืออะไร
       * Data Integration คืออะไร
       * Data Reduction คืออะไร
